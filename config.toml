@@ -1,0 +1,5 @@
+baseURL = 'https://derive-hosting.eth.link'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
+relativeURLs=true
